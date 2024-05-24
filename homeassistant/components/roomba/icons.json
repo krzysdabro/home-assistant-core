@@ -32,6 +32,9 @@
       },
       "total_cleaned_area": {
         "default": "mdi:texture-box"
+      },
+      "last_mission_start_time": {
+        "default": "mdi:calendar-clock"
       }
     }
   }
