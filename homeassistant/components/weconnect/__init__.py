@@ -9,6 +9,7 @@ from homeassistant.core import HomeAssistant
 from .coordinator import WeConnectCoordinator
 
 PLATFORMS = [
+    Platform.DEVICE_TRACKER,
     Platform.SENSOR,
 ]
 

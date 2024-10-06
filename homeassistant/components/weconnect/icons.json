@@ -1,5 +1,10 @@
 {
   "entity": {
+    "device_tracker": {
+      "car": {
+        "default": "mdi:car"
+      }
+    },
     "sensor": {
       "mileage": {
         "default": "mdi:speedometer"
