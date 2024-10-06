@@ -9,6 +9,7 @@ from homeassistant.core import HomeAssistant
 from .coordinator import WeConnectCoordinator
 
 PLATFORMS = [
+    Platform.IMAGE,
     Platform.SENSOR,
 ]
 
